@@ -1,6 +1,10 @@
 hello world
 dsfsf 
 dsfs
+<<<<<<< HEAD
 so aosxkf
 akgir
 
+=======
+ㄴㅇㄹ
+>>>>>>> e2cc5f14b8c6e9aa3836d07aa5eee4c9d83be1de
